@@ -1,0 +1,42 @@
+[2021-06-18 23:30:05,062][INFO] ===================Start===================
+[2021-06-18 23:30:13,213][INFO] Open FB page
+[2021-06-18 23:30:26,930][INFO] check start
+[2021-06-18 23:30:26,960][INFO] scroll down 500
+[2021-06-18 23:30:29,534][INFO] Exception：element not visible
+[2021-06-18 23:30:29,535][INFO] click see_more
+[2021-06-18 23:30:29,969][INFO] scroll down 500
+[2021-06-18 23:30:32,659][INFO] click see_more
+[2021-06-18 23:30:33,289][INFO] scroll down 500
+[2021-06-18 23:30:35,847][INFO] Exception：element not visible
+[2021-06-18 23:30:35,847][INFO] click see_more
+[2021-06-18 23:30:36,208][INFO] scroll down 500
+[2021-06-18 23:30:38,879][INFO] click see_more
+[2021-06-18 23:30:39,668][INFO] scroll down 500
+[2021-06-18 23:30:42,237][INFO] Exception：element not visible
+[2021-06-18 23:30:42,237][INFO] click see_more
+[2021-06-18 23:30:42,775][INFO] scroll down 500
+[2021-06-18 23:30:45,422][INFO] click see_more
+[2021-06-18 23:30:46,254][INFO] scroll down 500
+[2021-06-18 23:30:48,793][INFO] Exception：element not visible
+[2021-06-18 23:30:48,794][INFO] click see_more
+[2021-06-18 23:30:49,383][INFO] scroll down 500
+[2021-06-18 23:30:52,031][INFO] click see_more
+[2021-06-18 23:30:52,912][INFO] scroll down 500
+[2021-06-18 23:30:55,477][INFO] Exception：element not visible
+[2021-06-18 23:30:55,478][INFO] click see_more
+[2021-06-18 23:30:56,123][INFO] scroll down 500
+[2021-06-18 23:30:58,748][INFO] click see_more
+[2021-06-18 23:30:59,653][INFO] scroll down 500
+[2021-06-18 23:31:02,288][INFO] click see_more
+[2021-06-18 23:31:03,324][INFO] scroll down 500
+[2021-06-18 23:31:05,885][INFO] Exception：element not visible
+[2021-06-18 23:31:05,885][INFO] click see_more
+[2021-06-18 23:31:06,729][INFO] scroll down 500
+[2021-06-18 23:31:09,280][INFO] Exception：element not visible
+[2021-06-18 23:31:09,280][INFO] click see_more
+[2021-06-18 23:31:10,128][INFO] scroll down 500
+[2021-06-18 23:31:12,776][INFO] click see_more
+[2021-06-18 23:31:13,822][INFO] scroll down 500
+[2021-06-18 23:31:16,463][INFO] click see_more
+[2021-06-18 23:31:17,500][INFO] Save file
+[2021-06-18 23:31:17,500][INFO] ===================Finish===================

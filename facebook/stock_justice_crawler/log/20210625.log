@@ -1,0 +1,41 @@
+[2021-06-25 23:30:05,338][INFO] ===================Start===================
+[2021-06-25 23:30:12,272][INFO] Open browser
+[2021-06-25 23:30:30,099][INFO] check start
+[2021-06-25 23:30:30,132][INFO] scroll down 500
+[2021-06-25 23:30:32,694][INFO] Exception：element not visible
+[2021-06-25 23:30:32,694][INFO] click see_more
+[2021-06-25 23:30:33,216][INFO] scroll down 500
+[2021-06-25 23:30:35,841][INFO] click see_more
+[2021-06-25 23:30:36,535][INFO] scroll down 500
+[2021-06-25 23:30:39,209][INFO] click see_more
+[2021-06-25 23:30:39,933][INFO] scroll down 500
+[2021-06-25 23:30:42,575][INFO] click see_more
+[2021-06-25 23:30:43,329][INFO] scroll down 500
+[2021-06-25 23:30:45,978][INFO] click see_more
+[2021-06-25 23:30:46,777][INFO] scroll down 500
+[2021-06-25 23:30:49,399][INFO] click see_more
+[2021-06-25 23:30:50,276][INFO] scroll down 500
+[2021-06-25 23:30:52,936][INFO] click see_more
+[2021-06-25 23:30:53,894][INFO] scroll down 500
+[2021-06-25 23:30:56,537][INFO] click see_more
+[2021-06-25 23:30:57,516][INFO] scroll down 500
+[2021-06-25 23:31:00,117][INFO] click see_more
+[2021-06-25 23:31:01,145][INFO] scroll down 500
+[2021-06-25 23:31:03,748][INFO] click see_more
+[2021-06-25 23:31:04,776][INFO] scroll down 500
+[2021-06-25 23:31:07,396][INFO] click see_more
+[2021-06-25 23:31:08,473][INFO] scroll down 500
+[2021-06-25 23:31:11,078][INFO] click see_more
+[2021-06-25 23:31:12,136][INFO] scroll down 500
+[2021-06-25 23:31:14,752][INFO] click see_more
+[2021-06-25 23:31:15,806][INFO] scroll down 500
+[2021-06-25 23:31:18,400][INFO] click see_more
+[2021-06-25 23:31:19,521][INFO] scroll down 500
+[2021-06-25 23:31:22,128][INFO] click see_more
+[2021-06-25 23:31:23,239][INFO] scroll down 500
+[2021-06-25 23:31:25,859][INFO] click see_more
+[2021-06-25 23:31:27,088][INFO] scroll down 500
+[2021-06-25 23:31:29,709][INFO] click see_more
+[2021-06-25 23:31:30,924][INFO] Save file
+[2021-06-25 23:31:35,314][INFO] Close browser
+[2021-06-25 23:31:35,315][INFO] ===================Finish===================

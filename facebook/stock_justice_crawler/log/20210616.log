@@ -1,0 +1,58 @@
+[2021-06-16 23:30:05,416][INFO] ===================Start===================
+[2021-06-16 23:30:11,955][INFO] Open FB page
+[2021-06-16 23:30:35,214][INFO] check start
+[2021-06-16 23:30:35,281][INFO] scroll down 500
+[2021-06-16 23:30:37,929][INFO] click see_more
+[2021-06-16 23:30:39,340][INFO] scroll down 500
+[2021-06-16 23:30:41,943][INFO] click see_more
+[2021-06-16 23:30:43,090][INFO] scroll down 500
+[2021-06-16 23:30:45,722][INFO] click see_more
+[2021-06-16 23:30:46,954][INFO] scroll down 500
+[2021-06-16 23:30:49,581][INFO] click see_more
+[2021-06-16 23:30:50,909][INFO] scroll down 500
+[2021-06-16 23:30:53,545][INFO] click see_more
+[2021-06-16 23:30:54,942][INFO] scroll down 500
+[2021-06-16 23:30:57,586][INFO] click see_more
+[2021-06-16 23:30:58,912][INFO] scroll down 500
+[2021-06-16 23:31:01,532][INFO] click see_more
+[2021-06-16 23:31:02,808][INFO] scroll down 500
+[2021-06-16 23:31:05,428][INFO] click see_more
+[2021-06-16 23:31:06,748][INFO] scroll down 500
+[2021-06-16 23:31:09,369][INFO] click see_more
+[2021-06-16 23:31:10,670][INFO] scroll down 500
+[2021-06-16 23:31:13,305][INFO] click see_more
+[2021-06-16 23:31:14,610][INFO] scroll down 500
+[2021-06-16 23:31:17,230][INFO] click see_more
+[2021-06-16 23:31:18,626][INFO] scroll down 500
+[2021-06-16 23:31:21,186][INFO] Exception：element not visible
+[2021-06-16 23:31:21,186][INFO] click see_more
+[2021-06-16 23:31:22,518][INFO] scroll down 500
+[2021-06-16 23:31:25,147][INFO] click see_more
+[2021-06-16 23:31:26,510][INFO] scroll down 500
+[2021-06-16 23:31:29,145][INFO] click see_more
+[2021-06-16 23:31:30,581][INFO] scroll down 500
+[2021-06-16 23:31:33,133][INFO] Exception：element not visible
+[2021-06-16 23:31:33,133][INFO] click see_more
+[2021-06-16 23:31:34,484][INFO] scroll down 500
+[2021-06-16 23:31:37,117][INFO] click see_more
+[2021-06-16 23:31:38,588][INFO] scroll down 500
+[2021-06-16 23:31:41,152][INFO] Exception：element not visible
+[2021-06-16 23:31:41,152][INFO] click see_more
+[2021-06-16 23:31:42,521][INFO] scroll down 500
+[2021-06-16 23:31:45,162][INFO] click see_more
+[2021-06-16 23:31:46,818][INFO] scroll down 500
+[2021-06-16 23:31:49,376][INFO] Exception：element not visible
+[2021-06-16 23:31:49,376][INFO] click see_more
+[2021-06-16 23:31:50,913][INFO] scroll down 500
+[2021-06-16 23:31:53,464][INFO] Exception：element not visible
+[2021-06-16 23:31:53,464][INFO] click see_more
+[2021-06-16 23:31:55,011][INFO] scroll down 500
+[2021-06-16 23:31:57,633][INFO] click see_more
+[2021-06-16 23:31:59,467][INFO] scroll down 500
+[2021-06-16 23:32:02,015][INFO] Exception：element not visible
+[2021-06-16 23:32:02,016][INFO] click see_more
+[2021-06-16 23:32:03,769][INFO] scroll down 500
+[2021-06-16 23:32:06,318][INFO] Exception：element not visible
+[2021-06-16 23:32:06,318][INFO] click see_more
+[2021-06-16 23:32:08,001][INFO] Save file
+[2021-06-16 23:32:08,001][INFO] ===================Finish===================

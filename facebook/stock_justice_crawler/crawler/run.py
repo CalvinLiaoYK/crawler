@@ -35,6 +35,8 @@ def date_of_post():
     
     date_class = ".b6zbclly.myohyog2.l9j0dhe7.aenfhxwr.l94mrbxd.ihxqhq3m.nc684nl6.t5a262vz.sdhka5h4"
     last_height = browser.execute_script("return document.body.scrollHeight")
+    time.sleep(2)
+
     timestamp_list = browser.find_elements_by_css_selector(date_class)
 
     last_ts = last_timestamp(timestamp_list)
@@ -119,14 +121,17 @@ def main():
 
     to_file(company)
     logger.info("Save file")
+
+    browser.close()
+    logger.info("Close browser")
     logger.info("===================Finish===================")
 
 
 if __name__ == '__main__':
     logger.info("===================Start===================")
-    browser = webdriver.Chrome()
+    browser = webdriver.Chrome(executable_path='..\\webdriver\\chromedriver.exe')
     browser.get('https://www.facebook.com/groups/1189431674567215/')
-    logger.info("Open FB page")
+    logger.info("Open browser")
     company = defaultdict(dict)
     time.sleep(5)
     main()
