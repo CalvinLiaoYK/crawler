@@ -1,0 +1,115 @@
+[2021-07-09 23:30:05,594][INFO] ===================Start===================
+[2021-07-09 23:30:07,975][INFO] Open browser
+[2021-07-09 23:30:51,829][INFO] check start
+[2021-07-09 23:30:51,891][INFO] scroll down 500
+[2021-07-09 23:30:54,476][INFO] click see_more
+[2021-07-09 23:30:56,311][INFO] scroll down 500
+[2021-07-09 23:30:58,901][INFO] click see_more
+[2021-07-09 23:31:00,402][INFO] scroll down 500
+[2021-07-09 23:31:02,981][INFO] click see_more
+[2021-07-09 23:31:04,535][INFO] scroll down 500
+[2021-07-09 23:31:07,124][INFO] click see_more
+[2021-07-09 23:31:08,806][INFO] scroll down 500
+[2021-07-09 23:31:11,396][INFO] click see_more
+[2021-07-09 23:31:13,120][INFO] scroll down 500
+[2021-07-09 23:31:15,713][INFO] click see_more
+[2021-07-09 23:31:17,473][INFO] scroll down 500
+[2021-07-09 23:31:20,053][INFO] click see_more
+[2021-07-09 23:31:21,913][INFO] scroll down 500
+[2021-07-09 23:31:24,494][INFO] click see_more
+[2021-07-09 23:31:26,146][INFO] scroll down 500
+[2021-07-09 23:31:28,741][INFO] click see_more
+[2021-07-09 23:31:30,029][INFO] scroll down 500
+[2021-07-09 23:31:32,591][INFO] click see_more
+[2021-07-09 23:31:33,978][INFO] scroll down 500
+[2021-07-09 23:31:36,555][INFO] click see_more
+[2021-07-09 23:31:37,979][INFO] scroll down 500
+[2021-07-09 23:31:40,576][INFO] click see_more
+[2021-07-09 23:31:41,980][INFO] scroll down 500
+[2021-07-09 23:31:45,608][INFO] Message: element click intercepted: Element <div class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 nc684nl6 p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of lzcic4wl oo9gr5id gpro0wi8 lrazzd5p" role="button" tabindex="0">...</div> is not clickable at point (423, 43). Other element would receive the click: <div class="bp9cbjyn j83agx80 byvelhso pedkr2u6 ijkhr0an pnx7fd3z sgqwj88q k4urcfbm f4muv6rs">...</div>
+  (Session info: chrome=91.0.4472.124)
+
+[2021-07-09 23:31:45,613][INFO] click see_more
+[2021-07-09 23:31:47,060][INFO] scroll down 500
+[2021-07-09 23:31:50,688][INFO] Message: element click intercepted: Element <div class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 nc684nl6 p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of lzcic4wl oo9gr5id gpro0wi8 lrazzd5p" role="button" tabindex="0">...</div> is not clickable at point (423, 10). Other element would receive the click: <div class="bp9cbjyn j83agx80 byvelhso pedkr2u6 ijkhr0an pnx7fd3z sgqwj88q k4urcfbm f4muv6rs">...</div>
+  (Session info: chrome=91.0.4472.124)
+
+[2021-07-09 23:31:50,689][INFO] click see_more
+[2021-07-09 23:31:52,120][INFO] scroll down 500
+[2021-07-09 23:31:55,770][INFO] Message: element click intercepted: Element <div class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 nc684nl6 p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of lzcic4wl oo9gr5id gpro0wi8 lrazzd5p" role="button" tabindex="0">...</div> is not clickable at point (423, 10). Other element would receive the click: <div class="bp9cbjyn j83agx80 byvelhso pedkr2u6 ijkhr0an pnx7fd3z sgqwj88q k4urcfbm f4muv6rs">...</div>
+  (Session info: chrome=91.0.4472.124)
+
+[2021-07-09 23:31:55,771][INFO] click see_more
+[2021-07-09 23:31:57,191][INFO] scroll down 500
+[2021-07-09 23:32:00,763][INFO] Message: element click intercepted: Element <div class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 nc684nl6 p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of lzcic4wl oo9gr5id gpro0wi8 lrazzd5p" role="button" tabindex="0">...</div> is not clickable at point (423, 10). Other element would receive the click: <div class="bp9cbjyn j83agx80 byvelhso pedkr2u6 ijkhr0an pnx7fd3z sgqwj88q k4urcfbm f4muv6rs">...</div>
+  (Session info: chrome=91.0.4472.124)
+
+[2021-07-09 23:32:00,767][INFO] click see_more
+[2021-07-09 23:32:02,208][INFO] scroll down 500
+[2021-07-09 23:32:05,801][INFO] Message: element click intercepted: Element <div class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 nc684nl6 p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of lzcic4wl oo9gr5id gpro0wi8 lrazzd5p" role="button" tabindex="0">...</div> is not clickable at point (423, 10). Other element would receive the click: <div class="bp9cbjyn j83agx80 byvelhso pedkr2u6 ijkhr0an pnx7fd3z sgqwj88q k4urcfbm f4muv6rs">...</div>
+  (Session info: chrome=91.0.4472.124)
+
+[2021-07-09 23:32:05,805][INFO] click see_more
+[2021-07-09 23:32:07,223][INFO] scroll down 500
+[2021-07-09 23:32:10,808][INFO] Message: element click intercepted: Element <div class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 nc684nl6 p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of lzcic4wl oo9gr5id gpro0wi8 lrazzd5p" role="button" tabindex="0">...</div> is not clickable at point (423, 10). Other element would receive the click: <div class="bp9cbjyn j83agx80 byvelhso pedkr2u6 ijkhr0an pnx7fd3z sgqwj88q k4urcfbm f4muv6rs">...</div>
+  (Session info: chrome=91.0.4472.124)
+
+[2021-07-09 23:32:10,809][INFO] click see_more
+[2021-07-09 23:32:12,221][INFO] scroll down 500
+[2021-07-09 23:32:15,802][INFO] Message: element click intercepted: Element <div class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 nc684nl6 p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of lzcic4wl oo9gr5id gpro0wi8 lrazzd5p" role="button" tabindex="0">...</div> is not clickable at point (423, 10). Other element would receive the click: <div class="bp9cbjyn j83agx80 byvelhso pedkr2u6 ijkhr0an pnx7fd3z sgqwj88q k4urcfbm f4muv6rs">...</div>
+  (Session info: chrome=91.0.4472.124)
+
+[2021-07-09 23:32:15,803][INFO] click see_more
+[2021-07-09 23:32:17,241][INFO] scroll down 500
+[2021-07-09 23:32:20,881][INFO] Message: element click intercepted: Element <div class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 nc684nl6 p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of lzcic4wl oo9gr5id gpro0wi8 lrazzd5p" role="button" tabindex="0">...</div> is not clickable at point (423, 10). Other element would receive the click: <div class="bp9cbjyn j83agx80 byvelhso pedkr2u6 ijkhr0an pnx7fd3z sgqwj88q k4urcfbm f4muv6rs">...</div>
+  (Session info: chrome=91.0.4472.124)
+
+[2021-07-09 23:32:20,883][INFO] click see_more
+[2021-07-09 23:32:22,301][INFO] scroll down 500
+[2021-07-09 23:32:25,911][INFO] Message: element click intercepted: Element <div class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 nc684nl6 p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of lzcic4wl oo9gr5id gpro0wi8 lrazzd5p" role="button" tabindex="0">...</div> is not clickable at point (423, 10). Other element would receive the click: <div class="bp9cbjyn j83agx80 byvelhso pedkr2u6 ijkhr0an pnx7fd3z sgqwj88q k4urcfbm f4muv6rs">...</div>
+  (Session info: chrome=91.0.4472.124)
+
+[2021-07-09 23:32:25,912][INFO] click see_more
+[2021-07-09 23:32:27,329][INFO] scroll down 500
+[2021-07-09 23:32:29,885][INFO] Message: element not interactable
+  (Session info: chrome=91.0.4472.124)
+
+[2021-07-09 23:32:29,886][INFO] click see_more
+[2021-07-09 23:32:31,237][INFO] scroll down 500
+[2021-07-09 23:32:33,803][INFO] Message: element not interactable
+  (Session info: chrome=91.0.4472.124)
+
+[2021-07-09 23:32:33,807][INFO] click see_more
+[2021-07-09 23:32:35,134][INFO] scroll down 500
+[2021-07-09 23:32:37,704][INFO] Message: element not interactable
+  (Session info: chrome=91.0.4472.124)
+
+[2021-07-09 23:32:37,708][INFO] click see_more
+[2021-07-09 23:32:39,086][INFO] scroll down 500
+[2021-07-09 23:32:41,644][INFO] Message: element not interactable
+  (Session info: chrome=91.0.4472.124)
+
+[2021-07-09 23:32:41,647][INFO] click see_more
+[2021-07-09 23:32:43,017][INFO] scroll down 500
+[2021-07-09 23:32:45,562][INFO] Message: element not interactable
+  (Session info: chrome=91.0.4472.124)
+
+[2021-07-09 23:32:45,564][INFO] click see_more
+[2021-07-09 23:32:46,886][INFO] scroll down 500
+[2021-07-09 23:32:49,442][INFO] Message: element not interactable
+  (Session info: chrome=91.0.4472.124)
+
+[2021-07-09 23:32:49,446][INFO] click see_more
+[2021-07-09 23:32:50,809][INFO] scroll down 500
+[2021-07-09 23:32:53,346][INFO] Message: element not interactable
+  (Session info: chrome=91.0.4472.124)
+
+[2021-07-09 23:32:53,346][INFO] click see_more
+[2021-07-09 23:32:54,667][INFO] scroll down 500
+[2021-07-09 23:32:57,222][INFO] Message: element not interactable
+  (Session info: chrome=91.0.4472.124)
+
+[2021-07-09 23:32:57,226][INFO] click see_more
+[2021-07-09 23:32:58,516][INFO] Save file
+[2021-07-09 23:33:02,653][INFO] Close browser
+[2021-07-09 23:33:02,654][INFO] ===================Finish===================
